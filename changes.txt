@@ -1,0 +1,11 @@
+CAD (old robotic)
+	"Robot Finger/src/FingerBase1.SLDPRT"		:	Extruded a corner for better finger support.
+	"Robot Finger/src/FingerMCP.SLDPRT"		:	Changed dimensions to match new finger.
+	"Robot Finger/src/FingersTopSlate.SLDASM"	:	Suppressed old fingers and tendon tubes.
+CADProsthetic (old prosthetic)
+	"Assembly/AnthropomorphicHandAssembly.SLDASM"	:	Suppressed old fingers and tendon tubes.
+CADRoboticNewVersion (new prosthetic)
+	"RobotHand/3d Printed/Robot Finger" 		:	Created FingerBase21.SLDPRT. Cloned from FingerBase.SLDPRT, removed old tendon tubes, 
+								added structural support for new fingers.
+	"RobotHand/3d Printed/RobotHand.SLDASM"		:	Suppressed old fingers and tendon tubes, suppressed FingerBase.SLDPRT, added FingerBase21.SLDPRT.
+	
